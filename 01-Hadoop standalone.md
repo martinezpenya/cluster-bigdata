@@ -207,5 +207,4 @@ $ start-yarn.sh
 
 ## Acceso
 Ya podemos acceder a la WebUI puerto 9870
-
-![[hadoop9870.png]]
+![WebUI de Hadoop](./imgs/hadoop9870.png)
