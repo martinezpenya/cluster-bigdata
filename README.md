@@ -3,7 +3,7 @@
 
 ## Equipos (IPs + HOST)
 
-> **Hay que modificar el /etc/hosts de todos los equipos con estos datos**
+> **Hay que modificar el /etc/hosts con los datos de los equipos en el clúster**
 
 ```
 172.28.255.253	cloniciabd
